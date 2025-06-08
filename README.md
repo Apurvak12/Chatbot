@@ -10,10 +10,6 @@ This is a simple chatbot built using **React.js**. The assistant gives basic res
 - Styled using CSS
 - Responsive design
 
-## 📸 Preview
-
-![Chat UI Screenshot](screenshot.png)
-
 ## 🔧 Installation
 
 1. Clone the repository:
